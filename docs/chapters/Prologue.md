@@ -86,7 +86,7 @@ After some time he reached the door. He entered into a dimly lot room, there was
 He clenched his fist and punched through the glass and it broke, he picked up the fruit and started examining it.
 *I wonder how powerful master will become after eating this…*
 
-![Scene break]
+![Scene break](assets/scene.png)
 
 “So… what happened?” the Ambassador asked.
 
@@ -98,7 +98,7 @@ The Ambassador sat across the old man in a sofa.
 
 “What do you need me to do?” He asked as he sipped his drink.
 
-“I’m holding a feast?” The old man said as he looked out of the window.
+“I’m holding a feast.” The old man said as he looked out of the window.
 
 He nodded as he looked outside the window too.
 There was shouting outside, people ran here and there in a panic.
