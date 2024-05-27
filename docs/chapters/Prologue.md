@@ -86,7 +86,7 @@ After some time he reached the door. He entered into a dimly lot room, there was
 He clenched his fist and punched through the glass and it broke, he picked up the fruit and started examining it.
 *I wonder how powerful master will become after eating this…*
 
----
+![Scene break]
 
 “So… what happened?” the Ambassador asked.
 
