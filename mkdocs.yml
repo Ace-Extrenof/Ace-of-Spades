@@ -1,5 +1,8 @@
 site_name: Ace of Spades 
 site_url: hhttps://ace-extrenof.github.io/Ace-of-Spades
+repo_url: https://github.com/Ace-Extrenof/Ace-of-Spades/tree/main
+repo_name: Ace-Extrenof/ace-of-spades
+
 theme:
   font:
     text: Aleo 
@@ -10,7 +13,6 @@ theme:
     - toc.integrate
     - navigation.top
     - search.suggest
-    - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
@@ -37,3 +39,4 @@ markdown_extensions:
 
 plugins:
   - glightbox
+  - search
