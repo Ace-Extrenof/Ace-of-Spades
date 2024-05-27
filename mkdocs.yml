@@ -1,6 +1,8 @@
 site_name: Ace of Spades 
 site_url: hhttps://ace-extrenof.github.io/Ace-of-Spades
 theme:
+  font:
+    text: Aleo 
   name: material
   features:
     - navigation.tabs
