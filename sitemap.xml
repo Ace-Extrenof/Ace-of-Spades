@@ -2,22 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>hhttps://ace-extrenof.github.io/Ace-of-Spades/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <lastmod>2024-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>about/about/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <lastmod>2024-05-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>chapters/000000000000000%5Bredacted%5D/</loc>
+         <lastmod>2024-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>chapters/Prologue/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <lastmod>2024-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>chapters/That%20Day/</loc>
-         <lastmod>2024-05-27</lastmod>
+         <lastmod>2024-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
