@@ -39,4 +39,5 @@ markdown_extensions:
 
 plugins:
   - glightbox
+  - awesome-pages 
   - search
