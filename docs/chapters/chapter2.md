@@ -212,4 +212,4 @@ They looked at me.
 
 "I don't know, maybe enjoy yourself here, go watch the TV or go get a round of the surroundings..." Becky said as she walked out of the room. "Oh, and Shiroko watch over the house!" She said and left.
 
-*Shiroko... Japanese? What...*
+*Shiroko.. Japanese? What...*
